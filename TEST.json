@@ -1,0 +1,3656 @@
+{
+  "success": true,
+  "message": "",
+  "result": [
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_BTC",
+      "lastPrice": "0.040263",
+      "lowestAsk": "0.040263",
+      "highestBid": "0.04022",
+      "baseVolume24h": "69730.753",
+      "quoteVolume24h": "2792.033664541",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTC_USD",
+      "lastPrice": "32638.09",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_USD",
+      "lastPrice": "778.58",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LTC_BTC",
+      "lastPrice": "0.003879",
+      "lowestAsk": "0.00388",
+      "highestBid": "0.003878",
+      "baseVolume24h": "11939.89",
+      "quoteVolume24h": "46.40432128",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LTC_ETH",
+      "lastPrice": "0.0965",
+      "lowestAsk": "0.09666",
+      "highestBid": "0.09611",
+      "baseVolume24h": "76130.025",
+      "quoteVolume24h": "7400.02020109",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LTC_USD",
+      "lastPrice": "132.69",
+      "lowestAsk": "132.7",
+      "highestBid": "132.68",
+      "baseVolume24h": "23303.63097",
+      "quoteVolume24h": "3073954.6496898",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XLM_BTC",
+      "lastPrice": "0.00000934",
+      "lowestAsk": "0.00000935",
+      "highestBid": "0.00000933",
+      "baseVolume24h": "31986895",
+      "quoteVolume24h": "291.92764693",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XLM_ETH",
+      "lastPrice": "0.00023247",
+      "lowestAsk": "0.00023239",
+      "highestBid": "0.00023143",
+      "baseVolume24h": "13104679",
+      "quoteVolume24h": "3027.70619427",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XLM_USD",
+      "lastPrice": "0.32004",
+      "lowestAsk": "0.31961",
+      "highestBid": "0.31884",
+      "baseVolume24h": "14208686.3",
+      "quoteVolume24h": "4412504.390523",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DASH_BTC",
+      "lastPrice": "0.003069",
+      "lowestAsk": "0.003071",
+      "highestBid": "0.003069",
+      "baseVolume24h": "9143.865",
+      "quoteVolume24h": "27.813903992",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DASH_ETH",
+      "lastPrice": "0.07639",
+      "lowestAsk": "0.07656",
+      "highestBid": "0.07608",
+      "baseVolume24h": "16645.879",
+      "quoteVolume24h": "1267.79066658",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DASH_USD",
+      "lastPrice": "105.05",
+      "lowestAsk": "105.06",
+      "highestBid": "105.04",
+      "baseVolume24h": "1436.92986",
+      "quoteVolume24h": "148732.1184301",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BCH_BTC",
+      "lastPrice": "0.012062",
+      "lowestAsk": "0.012071",
+      "highestBid": "0.012067",
+      "baseVolume24h": "729.444",
+      "quoteVolume24h": "8.697290123",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BCH_ETH",
+      "lastPrice": "1.6646",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BCH_USD",
+      "lastPrice": "412.73",
+      "lowestAsk": "412.85",
+      "highestBid": "412.67",
+      "baseVolume24h": "531.47322",
+      "quoteVolume24h": "215854.4549789",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GAS_BTC",
+      "lastPrice": "0.000717",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NEO_BTC",
+      "lastPrice": "0.000671",
+      "lowestAsk": "0.000672",
+      "highestBid": "0.000669",
+      "baseVolume24h": "330601.99",
+      "quoteVolume24h": "217.28792136",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NEO_ETH",
+      "lastPrice": "0.063458",
+      "lowestAsk": "0.06482",
+      "highestBid": "0.063455",
+      "baseVolume24h": "5230.76",
+      "quoteVolume24h": "331.94420651",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NEO_USD",
+      "lastPrice": "22.95",
+      "lowestAsk": "23.06",
+      "highestBid": "22.855",
+      "baseVolume24h": "20662.843",
+      "quoteVolume24h": "462059.741563",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETC_BTC",
+      "lastPrice": "0.0002214",
+      "lowestAsk": "0.0002219",
+      "highestBid": "0.0002211",
+      "baseVolume24h": "32505.93",
+      "quoteVolume24h": "7.214291757",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETC_ETH",
+      "lastPrice": "0.005511",
+      "lowestAsk": "0.005521",
+      "highestBid": "0.005486",
+      "baseVolume24h": "344593.6",
+      "quoteVolume24h": "1908.1067879",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETC_USD",
+      "lastPrice": "7.5768",
+      "lowestAsk": "7.6162",
+      "highestBid": "7.5353",
+      "baseVolume24h": "62678.86",
+      "quoteVolume24h": "471613.364943",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "OMG_BTC",
+      "lastPrice": "0.0001019",
+      "lowestAsk": "0.0001021",
+      "highestBid": "0.0001015",
+      "baseVolume24h": "155833.25",
+      "quoteVolume24h": "15.79182137",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "OMG_ETH",
+      "lastPrice": "0.002462",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "OMG_USD",
+      "lastPrice": "3.5273",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNB_BTC",
+      "lastPrice": "0.0013135",
+      "lowestAsk": "0.0013139",
+      "highestBid": "0.0013135",
+      "baseVolume24h": "69826.96",
+      "quoteVolume24h": "90.240466012",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNB_ETH",
+      "lastPrice": "0.141841",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNB_USD",
+      "lastPrice": "30.7549",
+      "lowestAsk": "32.3178",
+      "highestBid": "32.2363",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MKR_BTC",
+      "lastPrice": "0.06",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MKR_ETH",
+      "lastPrice": "2.3",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MKR_USD",
+      "lastPrice": "622.1",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WTC_BTC",
+      "lastPrice": "0.0000872",
+      "lowestAsk": "396.71",
+      "highestBid": "396.51",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WTC_ETH",
+      "lastPrice": "0.004071",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WTC_USD",
+      "lastPrice": "3.5034",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VERI_BTC",
+      "lastPrice": "0.001564",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VERI_ETH",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VERI_USD",
+      "lastPrice": "23.9999",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZRX_BTC",
+      "lastPrice": "0.00002353",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZRX_ETH",
+      "lastPrice": "0.00117639",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZRX_USD",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "R_BTC",
+      "lastPrice": "0.0000038",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "R_ETH",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "R_USD",
+      "lastPrice": "0.0347",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BAT_BTC",
+      "lastPrice": "0.0000092",
+      "lowestAsk": "0.00000927",
+      "highestBid": "0.0000092",
+      "baseVolume24h": "22739072",
+      "quoteVolume24h": "206.34423379",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BAT_ETH",
+      "lastPrice": "0.00023078",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BAT_USD",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNB_USDT",
+      "lastPrice": "44.9291",
+      "lowestAsk": "44.9314",
+      "highestBid": "44.9224",
+      "baseVolume24h": "146044.54",
+      "quoteVolume24h": "6422579.218374",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZRX_USDT",
+      "lastPrice": "0.6417",
+      "lowestAsk": "0.6426",
+      "highestBid": "0.6408",
+      "baseVolume24h": "858647.6",
+      "quoteVolume24h": "523469.541179",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BAT_USDT",
+      "lastPrice": "0.3157",
+      "lowestAsk": "0.3167",
+      "highestBid": "0.3149",
+      "baseVolume24h": "5113829.5",
+      "quoteVolume24h": "1579734.880551",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KEY_BTC",
+      "lastPrice": "0.0000001",
+      "lowestAsk": "0.00000017",
+      "highestBid": "0.00000009",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KEY_ETH",
+      "lastPrice": "0.00000797",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KEY_USD",
+      "lastPrice": "0.002159",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XRC_BTC",
+      "lastPrice": "0.0000983",
+      "lowestAsk": "0.00008977",
+      "highestBid": "0.0000251",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XRC_ETH",
+      "lastPrice": "0.0299997",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XRC_USD",
+      "lastPrice": "4.84",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WAVES_BTC",
+      "lastPrice": "0.0002004",
+      "lowestAsk": "0.0002017",
+      "highestBid": "0.0002005",
+      "baseVolume24h": "203637.84",
+      "quoteVolume24h": "38.6788011358",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WAVES_ETH",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WAVES_USDT",
+      "lastPrice": "6.862",
+      "lowestAsk": "6.8837",
+      "highestBid": "6.8676",
+      "baseVolume24h": "200618.04",
+      "quoteVolume24h": "1294189.933537",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "REM_BTC",
+      "lastPrice": "0.00000014",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MB8_BTC",
+      "lastPrice": "0.00000013",
+      "lowestAsk": "0.00000013",
+      "highestBid": "0.00000007",
+      "baseVolume24h": "3857.69",
+      "quoteVolume24h": "0.0005014997",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MB8_ETH",
+      "lastPrice": "0.00012",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MB8_USD",
+      "lastPrice": "0.03",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ILC_BTC",
+      "lastPrice": "0.00000029",
+      "lowestAsk": "0.00000079",
+      "highestBid": "0.0000003",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ILC_ETH",
+      "lastPrice": "0.00041",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ILC_USDT",
+      "lastPrice": "0.04",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CCOH_BTC",
+      "lastPrice": "0.00000069",
+      "lowestAsk": "0.0000007",
+      "highestBid": "0.00000067",
+      "baseVolume24h": "17507.349",
+      "quoteVolume24h": "0.01174058248",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CCOH_ETH",
+      "lastPrice": "0.000048",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CCOH_USDT",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTC_USDT",
+      "lastPrice": "34205.07",
+      "lowestAsk": "34206.36",
+      "highestBid": "34198.65",
+      "baseVolume24h": "5056.746322",
+      "quoteVolume24h": "172069758.35130586",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_USDT",
+      "lastPrice": "1376.7",
+      "lowestAsk": "1376.98",
+      "highestBid": "1376.63",
+      "baseVolume24h": "109805.1594",
+      "quoteVolume24h": "149289943.1635491",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MEXC_BTC",
+      "lastPrice": "0.00000003",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MEXC_ETH",
+      "lastPrice": "0.00000197",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTC_UAH",
+      "lastPrice": "944742.3",
+      "lowestAsk": "944821.13",
+      "highestBid": "944584.66",
+      "baseVolume24h": "85.863665",
+      "quoteVolume24h": "80641343.36046981",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_UAH",
+      "lastPrice": "38023.69",
+      "lowestAsk": "38028.58",
+      "highestBid": "38020.43",
+      "baseVolume24h": "643.050905",
+      "quoteVolume24h": "24110829.54281492",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GBC_BTC",
+      "lastPrice": "0.0000066",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GBC_ETH",
+      "lastPrice": "0.00012923",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GBC_USDT",
+      "lastPrice": "0.04",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VITAE_BTC",
+      "lastPrice": "0.00005101",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VITAE_ETH",
+      "lastPrice": "0.005",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VITAE_USD",
+      "lastPrice": "1.85",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "STREAM_BTC",
+      "lastPrice": "0.00000033",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "STREAM_USD",
+      "lastPrice": "0.01",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNB_UAH",
+      "lastPrice": "1137.63",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MB8_EUR",
+      "lastPrice": "0.01",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XST_BTC",
+      "lastPrice": "0.0000125",
+      "lowestAsk": "0.00000299",
+      "highestBid": "0.0000002",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XST_ETH",
+      "lastPrice": "0.00000212",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XST_USD",
+      "lastPrice": "0.00041",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VC_BTC",
+      "lastPrice": "0.00005799",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VC_ETH",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VCG_USDT",
+      "lastPrice": "0.8162",
+      "lowestAsk": "0.8162",
+      "highestBid": "0.816",
+      "baseVolume24h": "116077.0879",
+      "quoteVolume24h": "94946.20805938",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TRX_BTC",
+      "lastPrice": "0.00000093",
+      "lowestAsk": "0.00000094",
+      "highestBid": "0.00000093",
+      "baseVolume24h": "98127770",
+      "quoteVolume24h": "91.44959789",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TRX_ETH",
+      "lastPrice": "0.00002313",
+      "lowestAsk": "0.00002329",
+      "highestBid": "0.00002299",
+      "baseVolume24h": "25126123",
+      "quoteVolume24h": "588.04166055",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TRX_USDT",
+      "lastPrice": "0.031856",
+      "lowestAsk": "0.031861",
+      "highestBid": "0.031852",
+      "baseVolume24h": "212275581.8",
+      "quoteVolume24h": "6751859.4021794",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTC_RUB",
+      "lastPrice": "2623839.32",
+      "lowestAsk": "2623937.79",
+      "highestBid": "2623150.14",
+      "baseVolume24h": "45.656769",
+      "quoteVolume24h": "119001897.05783621",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_RUB",
+      "lastPrice": "105605.2",
+      "lowestAsk": "105615.77",
+      "highestBid": "105599.92",
+      "baseVolume24h": "134.112789",
+      "quoteVolume24h": "13941202.21796304",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AYA_BTC",
+      "lastPrice": "0.00000125",
+      "lowestAsk": "0.00000125",
+      "highestBid": "0.00000124",
+      "baseVolume24h": "80277.978",
+      "quoteVolume24h": "0.100727458",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AYA_ETH",
+      "lastPrice": "0.0000475",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AYA_USDT",
+      "lastPrice": "0.04524",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VC_EUR",
+      "lastPrice": "0.56528409",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ROX_ETH",
+      "lastPrice": "0.000074",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ROX_USDT",
+      "lastPrice": "0.017",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTG_USDT",
+      "lastPrice": "7.179",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTG_UAH",
+      "lastPrice": "204.2425",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTG_EUR",
+      "lastPrice": "6.1411",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTG_RUB",
+      "lastPrice": "609.0078",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTC_EUR",
+      "lastPrice": "28067.74",
+      "lowestAsk": "28055.11",
+      "highestBid": "28038.27",
+      "baseVolume24h": "352.76142937",
+      "quoteVolume24h": "9853402.8163742301",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_EUR",
+      "lastPrice": "1128.94",
+      "lowestAsk": "1129.51",
+      "highestBid": "1128.66",
+      "baseVolume24h": "531.28905",
+      "quoteVolume24h": "592587.8693048",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNB_EUR",
+      "lastPrice": "34.5907",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNB_RUB",
+      "lastPrice": "2985.45",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XRP_BTC",
+      "lastPrice": "0.00001255",
+      "lowestAsk": "0.00001253",
+      "highestBid": "0.00001247",
+      "baseVolume24h": "22222160",
+      "quoteVolume24h": "219.07104272",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XRP_ETH",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XRP_USDT",
+      "lastPrice": "0.42758",
+      "lowestAsk": "0.42762",
+      "highestBid": "0.42683",
+      "baseVolume24h": "73063912",
+      "quoteVolume24h": "26426725.935047",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XRP_UAH",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XRP_EUR",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MATIC_BTC",
+      "lastPrice": "0.00000117",
+      "lowestAsk": "0.00000118",
+      "highestBid": "0.00000116",
+      "baseVolume24h": "116964643.69",
+      "quoteVolume24h": "142.6311433121",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MATIC_USD",
+      "lastPrice": "0.0401",
+      "lowestAsk": "0.04015",
+      "highestBid": "0.03991",
+      "baseVolume24h": "23000255.57",
+      "quoteVolume24h": "949684.88002752",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MATIC_USDT",
+      "lastPrice": "0.0401",
+      "lowestAsk": "0.04027",
+      "highestBid": "0.0398",
+      "baseVolume24h": "14741002.12",
+      "quoteVolume24h": "608190.88568964",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CVA_BTC",
+      "lastPrice": "0.0000299",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CVA_ETH",
+      "lastPrice": "0.001499",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CVA_USDT",
+      "lastPrice": "0.2799",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CDL_BTC",
+      "lastPrice": "0.00000022",
+      "lowestAsk": "0.00000029",
+      "highestBid": "0.00000019",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CDL_USD",
+      "lastPrice": "0.02121",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MEXC_USDT",
+      "lastPrice": "0.000358",
+      "lowestAsk": "0.000539",
+      "highestBid": "0.000358",
+      "baseVolume24h": "155392.57",
+      "quoteVolume24h": "58.48890923",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "POLIS_BTC",
+      "lastPrice": "0.0000652",
+      "lowestAsk": "0.00008989",
+      "highestBid": "0.00000351",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NRG_BTC",
+      "lastPrice": "0.00005999",
+      "lowestAsk": "0.00005999",
+      "highestBid": "0.00004602",
+      "baseVolume24h": "25403.172",
+      "quoteVolume24h": "1.52393628828",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KIM_BTC",
+      "lastPrice": "0.0172374",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KIM_USD",
+      "lastPrice": "4001",
+      "lowestAsk": "4032",
+      "highestBid": "408",
+      "baseVolume24h": "1.09",
+      "quoteVolume24h": "4353.71",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KIM_EUR",
+      "lastPrice": "139.1532",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CICX_BTC",
+      "lastPrice": "0.0000012",
+      "lowestAsk": "0.000001",
+      "highestBid": "0.0000008",
+      "baseVolume24h": "24071.573",
+      "quoteVolume24h": "0.0216246716",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CICX_ETH",
+      "lastPrice": "0.000259",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CICX_USDT",
+      "lastPrice": "0.04",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "PGPAY_BTC",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "PGPAY_ETH",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "PGPAY_USD",
+      "lastPrice": "0.0128",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AGRS_BTC",
+      "lastPrice": "0.00001746",
+      "lowestAsk": "0.00001774",
+      "highestBid": "0.00001707",
+      "baseVolume24h": "12819.77",
+      "quoteVolume24h": "0.1968079648",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TERN_ETH",
+      "lastPrice": "0.000004",
+      "lowestAsk": "0.000027",
+      "highestBid": "0.000004",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TERN_BTC",
+      "lastPrice": "0.00000043",
+      "lowestAsk": "0.00000043",
+      "highestBid": "0.00000004",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "IEOS_BTC",
+      "lastPrice": "0.0000002",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETC_USDT",
+      "lastPrice": "7.5751",
+      "lowestAsk": "7.5758",
+      "highestBid": "7.5747",
+      "baseVolume24h": "85967.71",
+      "quoteVolume24h": "647184.140859",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETC_RUB",
+      "lastPrice": "581.2211",
+      "lowestAsk": "581.1339",
+      "highestBid": "580.9594",
+      "baseVolume24h": "10193.54",
+      "quoteVolume24h": "5869914.071825",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETC_UAH",
+      "lastPrice": "209.3669",
+      "lowestAsk": "209.3913",
+      "highestBid": "209.269",
+      "baseVolume24h": "8607.65",
+      "quoteVolume24h": "1788178.893321",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NEO_USDT",
+      "lastPrice": "22.987",
+      "lowestAsk": "22.991",
+      "highestBid": "22.926",
+      "baseVolume24h": "15581.239",
+      "quoteVolume24h": "348470.040242",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NEO_RUB",
+      "lastPrice": "1748.403",
+      "lowestAsk": "1771.158",
+      "highestBid": "1751.597",
+      "baseVolume24h": "2014.326",
+      "quoteVolume24h": "3432065.841161",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NEO_UAH",
+      "lastPrice": "630.842",
+      "lowestAsk": "637.719",
+      "highestBid": "630.676",
+      "baseVolume24h": "2084.116",
+      "quoteVolume24h": "1280172.412153",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LTC_USDT",
+      "lastPrice": "132.72",
+      "lowestAsk": "132.7",
+      "highestBid": "132.68",
+      "baseVolume24h": "49620.569",
+      "quoteVolume24h": "6545539.8087699",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LTC_RUB",
+      "lastPrice": "10157.19",
+      "lowestAsk": "10199.37",
+      "highestBid": "10157.18",
+      "baseVolume24h": "226.26677",
+      "quoteVolume24h": "2285920.0213901",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LTC_UAH",
+      "lastPrice": "3671.06",
+      "lowestAsk": "3665.86",
+      "highestBid": "3664.02",
+      "baseVolume24h": "1102.96517",
+      "quoteVolume24h": "4021054.650052",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XLM_USDT",
+      "lastPrice": "0.31932",
+      "lowestAsk": "0.31945",
+      "highestBid": "0.31908",
+      "baseVolume24h": "249242181.4",
+      "quoteVolume24h": "76675073.079783",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XLM_UAH",
+      "lastPrice": "8.89037",
+      "lowestAsk": "8.87017",
+      "highestBid": "8.77212",
+      "baseVolume24h": "188385.7",
+      "quoteVolume24h": "1583453.900336",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XLM_RUB",
+      "lastPrice": "24.44442",
+      "lowestAsk": "24.63542",
+      "highestBid": "24.3631",
+      "baseVolume24h": "158838.6",
+      "quoteVolume24h": "3672737.548308",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WAVES_UAH",
+      "lastPrice": "187.8217",
+      "lowestAsk": "190.9951",
+      "highestBid": "188.8214",
+      "baseVolume24h": "37710.08",
+      "quoteVolume24h": "6681315.249707",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WAVES_RUB",
+      "lastPrice": "526.8895",
+      "lowestAsk": "527.444",
+      "highestBid": "526.6125",
+      "baseVolume24h": "330582.65",
+      "quoteVolume24h": "165796962.69259",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BCH_USDT",
+      "lastPrice": "412.72",
+      "lowestAsk": "412.78",
+      "highestBid": "412.66",
+      "baseVolume24h": "60364.46009",
+      "quoteVolume24h": "24488419.0688114",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BCH_UAH",
+      "lastPrice": "11399.02",
+      "lowestAsk": "11399.97",
+      "highestBid": "11397.12",
+      "baseVolume24h": "301.87544",
+      "quoteVolume24h": "3382780.9813825",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BCH_RUB",
+      "lastPrice": "31661.64",
+      "lowestAsk": "31664.28",
+      "highestBid": "31653.71",
+      "baseVolume24h": "89.09191",
+      "quoteVolume24h": "2765496.2550134",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "USDT_RUB",
+      "lastPrice": "75.7417",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "USDT_UAH",
+      "lastPrice": "27.5936",
+      "lowestAsk": "27.5867",
+      "highestBid": "27.5798",
+      "baseVolume24h": "1434493.08",
+      "quoteVolume24h": "39580124.657571",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "USDT_USD",
+      "lastPrice": "0.9987",
+      "lowestAsk": "0.9989",
+      "highestBid": "0.9985",
+      "baseVolume24h": "72283.658",
+      "quoteVolume24h": "72252.5199791",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "USDT_EUR",
+      "lastPrice": "0.819",
+      "lowestAsk": "0.819",
+      "highestBid": "0.8188",
+      "baseVolume24h": "34403.4748",
+      "quoteVolume24h": "28198.27107003",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTC_TUSD",
+      "lastPrice": "34206.52",
+      "lowestAsk": "34336.72",
+      "highestBid": "34143.71",
+      "baseVolume24h": "12.553199",
+      "quoteVolume24h": "425969.99450881",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_TUSD",
+      "lastPrice": "1378.5",
+      "lowestAsk": "1387.19",
+      "highestBid": "1370.82",
+      "baseVolume24h": "173.98493",
+      "quoteVolume24h": "236321.6269635",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTC_PAX",
+      "lastPrice": "32707.67",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_PAX",
+      "lastPrice": "1376.58",
+      "lowestAsk": "1389.79",
+      "highestBid": "1368.99",
+      "baseVolume24h": "388.39305",
+      "quoteVolume24h": "528355.9816292",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTC_USDC",
+      "lastPrice": "34224.82",
+      "lowestAsk": "34320.6",
+      "highestBid": "34164.14",
+      "baseVolume24h": "9.403732",
+      "quoteVolume24h": "319773.15530979",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_USDC",
+      "lastPrice": "1377.36",
+      "lowestAsk": "1386.47",
+      "highestBid": "1371.12",
+      "baseVolume24h": "133.62381",
+      "quoteVolume24h": "181693.4053573",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CCXX_USDT",
+      "lastPrice": "88.92",
+      "lowestAsk": "94",
+      "highestBid": "88.9",
+      "baseVolume24h": "17.01311",
+      "quoteVolume24h": "1567.43003",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CCXX_EUR",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BEER_BTC",
+      "lastPrice": "0.00000053",
+      "lowestAsk": "0.00000053",
+      "highestBid": "0.0000005",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GLEEC_BTC",
+      "lastPrice": "0.00004",
+      "lowestAsk": "0.00004",
+      "highestBid": "0.000027",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LINK_BTC",
+      "lastPrice": "0.00070152",
+      "lowestAsk": "0.00070372",
+      "highestBid": "0.0007019",
+      "baseVolume24h": "86604.62",
+      "quoteVolume24h": "58.3677529608",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LINK_USDT",
+      "lastPrice": "24.0394",
+      "lowestAsk": "24.0641",
+      "highestBid": "24.0101",
+      "baseVolume24h": "79105.73",
+      "quoteVolume24h": "1814170.63236",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SOLO_USDT",
+      "lastPrice": "0.64",
+      "lowestAsk": "0.88",
+      "highestBid": "0.5",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTT_USDT",
+      "lastPrice": "0.0003827",
+      "lowestAsk": "0.000385",
+      "highestBid": "0.0003805",
+      "baseVolume24h": "408482893",
+      "quoteVolume24h": "156069.6870344",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BSV_USDT",
+      "lastPrice": "177.92",
+      "lowestAsk": "177.8",
+      "highestBid": "177.7",
+      "baseVolume24h": "541.922",
+      "quoteVolume24h": "95260.731192",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BSV_USD",
+      "lastPrice": "177.78",
+      "lowestAsk": "177.95",
+      "highestBid": "177.56",
+      "baseVolume24h": "367.1893",
+      "quoteVolume24h": "64775.98648",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BSV_RUB",
+      "lastPrice": "13621.22",
+      "lowestAsk": "13650.05",
+      "highestBid": "13620.02",
+      "baseVolume24h": "554.3713",
+      "quoteVolume24h": "7545496.562571",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BSV_EUR",
+      "lastPrice": "145.9",
+      "lowestAsk": "145.78",
+      "highestBid": "145.72",
+      "baseVolume24h": "517.385",
+      "quoteVolume24h": "74479.892194",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SNB_BTC",
+      "lastPrice": "0.00002945",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VC_USD",
+      "lastPrice": "0.6708",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VC_RUB",
+      "lastPrice": "47.95",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZEC_BTC",
+      "lastPrice": "0.002465",
+      "lowestAsk": "0.002468",
+      "highestBid": "0.00246",
+      "baseVolume24h": "1235.811",
+      "quoteVolume24h": "3.061197438",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZEC_EUR",
+      "lastPrice": "67.98",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "USDT_VNDC",
+      "lastPrice": "23845",
+      "lowestAsk": "23845",
+      "highestBid": "23801",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ETH_VNDC",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VC_UAH",
+      "lastPrice": "18.13",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CAP_BTC",
+      "lastPrice": "0.0000038",
+      "lowestAsk": "0.0000038",
+      "highestBid": "0.00000064",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DBTC_DUSDT",
+      "lastPrice": "34326.92",
+      "lowestAsk": "34234.2",
+      "highestBid": "34165.79",
+      "baseVolume24h": "4.217697",
+      "quoteVolume24h": "143202.02048694",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TLW_BTC",
+      "lastPrice": "0.000243",
+      "lowestAsk": "0.000244",
+      "highestBid": "0.000121",
+      "baseVolume24h": "3262.75",
+      "quoteVolume24h": "0.79286519",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TLW_USDT",
+      "lastPrice": "5.326",
+      "lowestAsk": "6.672",
+      "highestBid": "4.519",
+      "baseVolume24h": "3464.906",
+      "quoteVolume24h": "17423.883988",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TNC_BTC",
+      "lastPrice": "0.00000088",
+      "lowestAsk": "0.000001",
+      "highestBid": "0.00000072",
+      "baseVolume24h": "101199",
+      "quoteVolume24h": "0.09901529",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TNC_USDT",
+      "lastPrice": "0.02724",
+      "lowestAsk": "0.02784",
+      "highestBid": "0.02322",
+      "baseVolume24h": "100200.7",
+      "quoteVolume24h": "3126.621254",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CBUCKS_USDT",
+      "lastPrice": "0.01645",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MARTK_USDT",
+      "lastPrice": "0.0065",
+      "lowestAsk": "0.0139",
+      "highestBid": "0.0065",
+      "baseVolume24h": "30",
+      "quoteVolume24h": "0.195",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MARTK_BTC",
+      "lastPrice": "0.0000002",
+      "lowestAsk": "0.0000029",
+      "highestBid": "0.00000006",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MWC_BTC",
+      "lastPrice": "0.0003303",
+      "lowestAsk": "0.0003269",
+      "highestBid": "0.0003064",
+      "baseVolume24h": "733.39",
+      "quoteVolume24h": "0.229726161",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "FNT_ETH",
+      "lastPrice": "0.00000018",
+      "lowestAsk": "0.00000018",
+      "highestBid": "0.00000017",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ADK_BTC",
+      "lastPrice": "0.00006585",
+      "lowestAsk": "0.00006679",
+      "highestBid": "0.00006571",
+      "baseVolume24h": "21858.32",
+      "quoteVolume24h": "1.4084526064",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "RPZX_BTC",
+      "lastPrice": "0.00000002",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ADK_USD",
+      "lastPrice": "2.2479",
+      "lowestAsk": "2.267",
+      "highestBid": "2.2315",
+      "baseVolume24h": "25665.81",
+      "quoteVolume24h": "56176.921298",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XMR_USDT",
+      "lastPrice": "139.05",
+      "lowestAsk": "139.12",
+      "highestBid": "139.01",
+      "baseVolume24h": "1524.31873",
+      "quoteVolume24h": "211523.3807693",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XLA_USDT",
+      "lastPrice": "0.00047",
+      "lowestAsk": "0.00054",
+      "highestBid": "0.00047",
+      "baseVolume24h": "249550.4",
+      "quoteVolume24h": "117.288688",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ADK_EUR",
+      "lastPrice": "1.8633",
+      "lowestAsk": "1.8766",
+      "highestBid": "1.8466",
+      "baseVolume24h": "25226.44",
+      "quoteVolume24h": "45642.786881",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BUBO_BTC",
+      "lastPrice": "0.0000012",
+      "lowestAsk": "0.0000009",
+      "highestBid": "0.00000064",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GAME_ETH",
+      "lastPrice": "0.00031",
+      "lowestAsk": "0.0002",
+      "highestBid": "0.000021",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "FME_USDT",
+      "lastPrice": "0.00049",
+      "lowestAsk": "0.00049",
+      "highestBid": "0.00035",
+      "baseVolume24h": "581140.42",
+      "quoteVolume24h": "278.7907846",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VLT_USDT",
+      "lastPrice": "0.1",
+      "lowestAsk": "5",
+      "highestBid": "0.01",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "UCA_BTC",
+      "lastPrice": "0.0000001",
+      "lowestAsk": "0.0000002",
+      "highestBid": "0.00000006",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "INTX_BTC",
+      "lastPrice": "0.00000003",
+      "lowestAsk": "0.00000002",
+      "highestBid": "0.00000001",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VRSC_BTC",
+      "lastPrice": "0.00000625",
+      "lowestAsk": "0.000013",
+      "highestBid": "0.00000625",
+      "baseVolume24h": "46",
+      "quoteVolume24h": "0.0002875",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ONE_BTC",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "PAX_USDT",
+      "lastPrice": "0.9988",
+      "lowestAsk": "1.0004",
+      "highestBid": "0.9963",
+      "baseVolume24h": "14623.49",
+      "quoteVolume24h": "14614.017573",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "USDC_USDT",
+      "lastPrice": "0.9988",
+      "lowestAsk": "0.9989",
+      "highestBid": "0.9987",
+      "baseVolume24h": "108383.013",
+      "quoteVolume24h": "108332.66202966",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TUSD_USDT",
+      "lastPrice": "0.9987",
+      "lowestAsk": "1.0004",
+      "highestBid": "0.9971",
+      "baseVolume24h": "12111.11",
+      "quoteVolume24h": "12106.062558",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VRSC_USD",
+      "lastPrice": "0.22",
+      "lowestAsk": "0.22",
+      "highestBid": "0.21",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SCP_BTC",
+      "lastPrice": "0.000003",
+      "lowestAsk": "0.00000384",
+      "highestBid": "0.00000285",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VRSC_ETH",
+      "lastPrice": "0.0002",
+      "lowestAsk": "0.00035",
+      "highestBid": "0.00012",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VRSC_EUR",
+      "lastPrice": "0.2",
+      "lowestAsk": "0.39",
+      "highestBid": "0.2",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "FMA_BTC",
+      "lastPrice": "0.0000004",
+      "lowestAsk": "0.00000041",
+      "highestBid": "0.0000004",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "HTML_ETH",
+      "lastPrice": "0.00000002",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GMC_BTC",
+      "lastPrice": "0.00000518",
+      "lowestAsk": "0.00000518",
+      "highestBid": "0.00000517",
+      "baseVolume24h": "423018.8",
+      "quoteVolume24h": "2.193998239",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "INRT_BTC",
+      "lastPrice": "0.00000001",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XHV_BTC",
+      "lastPrice": "0.000015",
+      "lowestAsk": "0.00010999",
+      "highestBid": "0.00000551",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BLVR_BTC",
+      "lastPrice": "0.000019",
+      "lowestAsk": "0.00001968",
+      "highestBid": "0.0000185",
+      "baseVolume24h": "5677.69",
+      "quoteVolume24h": "0.1110799324",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VRSC_RUB",
+      "lastPrice": "20",
+      "lowestAsk": "38",
+      "highestBid": "15",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LYRA_EUR",
+      "lastPrice": "0.035",
+      "lowestAsk": "0.04",
+      "highestBid": "0.01",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZEN_USDT",
+      "lastPrice": "36.57",
+      "lowestAsk": "36.689",
+      "highestBid": "36.365",
+      "baseVolume24h": "29503.62",
+      "quoteVolume24h": "1030229.348371",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZEN_RUB",
+      "lastPrice": "2811.01",
+      "lowestAsk": "2819.33",
+      "highestBid": "2783.96",
+      "baseVolume24h": "230.024",
+      "quoteVolume24h": "607557.11167",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XDN_BTC",
+      "lastPrice": "0.00000005",
+      "lowestAsk": "0.00000005",
+      "highestBid": "0.00000002",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ACED_BTC",
+      "lastPrice": "0.00000039",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AMB_BTC",
+      "lastPrice": "0.0000002",
+      "lowestAsk": "0.00008099",
+      "highestBid": "0.00000021",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ULT_ETH",
+      "lastPrice": "0.00016",
+      "lowestAsk": "0.00032",
+      "highestBid": "0.00004",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "PHTF_USDT",
+      "lastPrice": "3.7",
+      "lowestAsk": "3.7062",
+      "highestBid": "3.6977",
+      "baseVolume24h": "449.17",
+      "quoteVolume24h": "1663.44967",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BDCC_ETH",
+      "lastPrice": "0.000385",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "QARK_BTC",
+      "lastPrice": "0.00000162",
+      "lowestAsk": "0.00000164",
+      "highestBid": "0.00000162",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AXEL_BTC",
+      "lastPrice": "0.00000709",
+      "lowestAsk": "0.0000071",
+      "highestBid": "0.0000069",
+      "baseVolume24h": "475103",
+      "quoteVolume24h": "3.36819057",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DOGE_USDT",
+      "lastPrice": "0.0282574",
+      "lowestAsk": "0.0282211",
+      "highestBid": "0.0281027",
+      "baseVolume24h": "63626206",
+      "quoteVolume24h": "2064164.2514434",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AWG_USD",
+      "lastPrice": "59.48",
+      "lowestAsk": "59.88",
+      "highestBid": "59.09",
+      "baseVolume24h": "41.58",
+      "quoteVolume24h": "2473.1784",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZEC_USDT",
+      "lastPrice": "84.3",
+      "lowestAsk": "84.32",
+      "highestBid": "84.28",
+      "baseVolume24h": "2655.99824",
+      "quoteVolume24h": "223481.3769012",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "OMG_USDT",
+      "lastPrice": "3.4863",
+      "lowestAsk": "3.4896",
+      "highestBid": "3.4815",
+      "baseVolume24h": "14526.23",
+      "quoteVolume24h": "50134.384108",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DASH_USDT",
+      "lastPrice": "105.05",
+      "lowestAsk": "105.06",
+      "highestBid": "105.04",
+      "baseVolume24h": "1630.5701",
+      "quoteVolume24h": "168770.5240522",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MEDI_BTC",
+      "lastPrice": "0.00000027",
+      "lowestAsk": "0.00000027",
+      "highestBid": "0.00000022",
+      "baseVolume24h": "12133947",
+      "quoteVolume24h": "3.14218146",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SSS_BTC",
+      "lastPrice": "0.00000259",
+      "lowestAsk": "0.0000026",
+      "highestBid": "0.00000092",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CLG_USDT",
+      "lastPrice": "0.00012",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VIDYA_ETH",
+      "lastPrice": "0.00002362",
+      "lowestAsk": "0.00002349",
+      "highestBid": "0.0000234",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CUR_ETH",
+      "lastPrice": "0.0005",
+      "lowestAsk": "0.00255",
+      "highestBid": "0.0001",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KOCJ_USDT",
+      "lastPrice": "6.1633",
+      "lowestAsk": "6.1714",
+      "highestBid": "6.1512",
+      "baseVolume24h": "322.06",
+      "quoteVolume24h": "1968.610592",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "COMP_USDT",
+      "lastPrice": "335.71",
+      "lowestAsk": "335.75",
+      "highestBid": "335.1",
+      "baseVolume24h": "2518.49251",
+      "quoteVolume24h": "788095.0516892",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "COMP_RUB",
+      "lastPrice": "16636.86",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LYRA_BTC",
+      "lastPrice": "0.00000018",
+      "lowestAsk": "0.00000095",
+      "highestBid": "0.00000007",
+      "baseVolume24h": "2000",
+      "quoteVolume24h": "0.00036",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LEND_USDT",
+      "lastPrice": "0.53232",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LEND_RUB",
+      "lastPrice": "41.76",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "YFI_USDT",
+      "lastPrice": "31512.57",
+      "lowestAsk": "31540.97",
+      "highestBid": "31517.3",
+      "baseVolume24h": "21.784412",
+      "quoteVolume24h": "661209.63564527",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "YFI_RUB",
+      "lastPrice": "2416265",
+      "lowestAsk": "2431618",
+      "highestBid": "2406505",
+      "baseVolume24h": "0.49660687",
+      "quoteVolume24h": "1144499.61037515",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MKR_USDT",
+      "lastPrice": "1582.13",
+      "lowestAsk": "1585.42",
+      "highestBid": "1576.65",
+      "baseVolume24h": "805.35984",
+      "quoteVolume24h": "1195169.6061071",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MKR_RUB",
+      "lastPrice": "107408.7",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZRX_RUB",
+      "lastPrice": "45.08",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SNX_USDT",
+      "lastPrice": "17.815",
+      "lowestAsk": "17.817",
+      "highestBid": "17.779",
+      "baseVolume24h": "143751.97",
+      "quoteVolume24h": "2495045.88039",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SNX_RUB",
+      "lastPrice": "1274.3157",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SXP_USDT",
+      "lastPrice": "1.268",
+      "lowestAsk": "1.269",
+      "highestBid": "1.267",
+      "baseVolume24h": "116133.731",
+      "quoteVolume24h": "146315.301976",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SXP_RUB",
+      "lastPrice": "76.5957",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DAI_USDT",
+      "lastPrice": "0.9991",
+      "lowestAsk": "0.9994",
+      "highestBid": "0.9991",
+      "baseVolume24h": "16362.95",
+      "quoteVolume24h": "16355.85269",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DAI_RUB",
+      "lastPrice": "76.7",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BAND_USDT",
+      "lastPrice": "9.7929",
+      "lowestAsk": "9.806",
+      "highestBid": "9.7788",
+      "baseVolume24h": "485130.84",
+      "quoteVolume24h": "4432032.576583",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BAND_RUB",
+      "lastPrice": "699.1254",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KNC_USDT",
+      "lastPrice": "1.3751",
+      "lowestAsk": "1.379",
+      "highestBid": "1.3722",
+      "baseVolume24h": "109867.84",
+      "quoteVolume24h": "141497.729393",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KNC_RUB",
+      "lastPrice": "101.05",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "UNI_USDT",
+      "lastPrice": "19.9328",
+      "lowestAsk": "19.9605",
+      "highestBid": "19.9259",
+      "baseVolume24h": "1280685.32",
+      "quoteVolume24h": "22188621.681015",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "UNI_RUB",
+      "lastPrice": "1072.7808",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "UNI_UAH",
+      "lastPrice": "388.2101",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SATT_USDT",
+      "lastPrice": "0.0029881",
+      "lowestAsk": "0.00305",
+      "highestBid": "0.0029881",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LID_EUR",
+      "lastPrice": "0.03152",
+      "lowestAsk": "0",
+      "highestBid": "0.0011",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "FLOW_ETH",
+      "lastPrice": "0.000044",
+      "lowestAsk": "0.0000425",
+      "highestBid": "0.000016",
+      "baseVolume24h": "6743.69",
+      "quoteVolume24h": "0.24830461",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "YTA_USDT",
+      "lastPrice": "0.03663",
+      "lowestAsk": "0.03665",
+      "highestBid": "0.03663",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "EOS_USDT",
+      "lastPrice": "2.9009",
+      "lowestAsk": "2.9029",
+      "highestBid": "2.8989",
+      "baseVolume24h": "1976100.48",
+      "quoteVolume24h": "5718876.014536",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NCDT_BTC",
+      "lastPrice": "0.00000976",
+      "lowestAsk": "0.00001024",
+      "highestBid": "0.00000819",
+      "baseVolume24h": "377789.9258",
+      "quoteVolume24h": "3.530002862782",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "PTOY_BTC",
+      "lastPrice": "0.00000041",
+      "lowestAsk": "0.00000042",
+      "highestBid": "0.00000034",
+      "baseVolume24h": "22520",
+      "quoteVolume24h": "0.00684927",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "UTED_USDT",
+      "lastPrice": "0.01189",
+      "lowestAsk": "0.01196",
+      "highestBid": "0.0112",
+      "baseVolume24h": "917151",
+      "quoteVolume24h": "10762.92683",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AWX_BTC",
+      "lastPrice": "0.00000212",
+      "lowestAsk": "0.000059",
+      "highestBid": "0.00000264",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AQN_BTC",
+      "lastPrice": "0.00007315",
+      "lowestAsk": "0.00008114",
+      "highestBid": "0.00007007",
+      "baseVolume24h": "412557",
+      "quoteVolume24h": "30.21085323",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "3CS_USDT",
+      "lastPrice": "0.04418",
+      "lowestAsk": "0.047",
+      "highestBid": "0.0357",
+      "baseVolume24h": "248533.5",
+      "quoteVolume24h": "10969.258613",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "COMP_UAH",
+      "lastPrice": "6143.85",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LEND_UAH",
+      "lastPrice": "15.26",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SNX_UAH",
+      "lastPrice": "459.9545",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SXP_UAH",
+      "lastPrice": "28.26",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DAI_UAH",
+      "lastPrice": "28.24",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BAND_UAH",
+      "lastPrice": "254.9842",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KNC_UAH",
+      "lastPrice": "35.82",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MKR_UAH",
+      "lastPrice": "38954.961",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZRX_UAH",
+      "lastPrice": "16.42",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "YFI_UAH",
+      "lastPrice": "871402.46",
+      "lowestAsk": "876187.73",
+      "highestBid": "867151.06",
+      "baseVolume24h": "0.66371697",
+      "quoteVolume24h": "553765.697061315",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GSMT_USDT",
+      "lastPrice": "0.45",
+      "lowestAsk": "0.451",
+      "highestBid": "0.448",
+      "baseVolume24h": "44782",
+      "quoteVolume24h": "20124.5435",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NCDT_EUR",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AWG_BTC",
+      "lastPrice": "0.00381201",
+      "lowestAsk": "0.00393456",
+      "highestBid": "0.00030002",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ACOIN_USDT",
+      "lastPrice": "0.0373",
+      "lowestAsk": "0.25",
+      "highestBid": "0.0257",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "EVX_USDT",
+      "lastPrice": "0.34716",
+      "lowestAsk": "0.34751",
+      "highestBid": "0.34644",
+      "baseVolume24h": "61396.16",
+      "quoteVolume24h": "20443.9938849",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ZZZ_ETH",
+      "lastPrice": "0.00076",
+      "lowestAsk": "0.00076",
+      "highestBid": "0.0002",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DOGES_USDT",
+      "lastPrice": "0.57",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "2XDN_ETH",
+      "lastPrice": "0.00000731",
+      "lowestAsk": "0.00000864",
+      "highestBid": "0.00000101",
+      "baseVolume24h": "659284",
+      "quoteVolume24h": "5.39469464",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SKY_USDT",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0.0225",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DEF_USDT",
+      "lastPrice": "0.055",
+      "lowestAsk": "0.463",
+      "highestBid": "0.0557",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "STARK_USDT",
+      "lastPrice": "846",
+      "lowestAsk": "845.2",
+      "highestBid": "845",
+      "baseVolume24h": "58.70154",
+      "quoteVolume24h": "48916.9568851",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MTA_USDT",
+      "lastPrice": "0.00863",
+      "lowestAsk": "0.008641",
+      "highestBid": "0.008587",
+      "baseVolume24h": "7787135",
+      "quoteVolume24h": "67551.319923",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WEC_UAH",
+      "lastPrice": "79.2",
+      "lowestAsk": "80",
+      "highestBid": "79.14",
+      "baseVolume24h": "4848.19",
+      "quoteVolume24h": "386115.1137",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MRX_BTC",
+      "lastPrice": "0.00000001",
+      "lowestAsk": "0.00000001",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LONG_USDT",
+      "lastPrice": "0.00002129",
+      "lowestAsk": "0.00002133",
+      "highestBid": "0.00002129",
+      "baseVolume24h": "3824100286",
+      "quoteVolume24h": "79518.79055987",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KTLYO_BTC",
+      "lastPrice": "0.00000318",
+      "lowestAsk": "0.0000032",
+      "highestBid": "0.00000319",
+      "baseVolume24h": "108300",
+      "quoteVolume24h": "0.3316631",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DIGEX_BTC",
+      "lastPrice": "0.00000003",
+      "lowestAsk": "0.00000003",
+      "highestBid": "0.00000002",
+      "baseVolume24h": "4044485",
+      "quoteVolume24h": "0.12133455",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "RAK_USDT",
+      "lastPrice": "50",
+      "lowestAsk": "10000",
+      "highestBid": "20",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NEEO_USDT",
+      "lastPrice": "0.015",
+      "lowestAsk": "0.015",
+      "highestBid": "0.0092",
+      "baseVolume24h": "160",
+      "quoteVolume24h": "2.4",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GMC_ETH",
+      "lastPrice": "0.000129",
+      "lowestAsk": "0.000129",
+      "highestBid": "0.000128",
+      "baseVolume24h": "696072.53",
+      "quoteVolume24h": "90.40501424",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DYN_USDT",
+      "lastPrice": "0.789775",
+      "lowestAsk": "0.789696",
+      "highestBid": "0.789617",
+      "baseVolume24h": "266510.52",
+      "quoteVolume24h": "209347.43106115",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "KALA_USDT",
+      "lastPrice": "0.0004999",
+      "lowestAsk": "0.0005099",
+      "highestBid": "0.0003482",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WEC_EUR",
+      "lastPrice": "2.25",
+      "lowestAsk": "2.4",
+      "highestBid": "2.1769",
+      "baseVolume24h": "4578.5",
+      "quoteVolume24h": "10582.57605",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MVEDA_ETH",
+      "lastPrice": "0.000058",
+      "lowestAsk": "0.000052",
+      "highestBid": "0.000051",
+      "baseVolume24h": "87",
+      "quoteVolume24h": "0.005046",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "TREEP_BTC",
+      "lastPrice": "0.00000001",
+      "lowestAsk": "0.00000001",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "OVO_BTC",
+      "lastPrice": "0.0001511",
+      "lowestAsk": "0.000151",
+      "highestBid": "0.000136",
+      "baseVolume24h": "36",
+      "quoteVolume24h": "0.0054396",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BELL_BTC",
+      "lastPrice": "0.00000006",
+      "lowestAsk": "0.00000008",
+      "highestBid": "0.00000003",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BCNA_BTC",
+      "lastPrice": "0.00000125",
+      "lowestAsk": "0.00000111",
+      "highestBid": "0.0000011",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "AWX_USDT",
+      "lastPrice": "2.5",
+      "lowestAsk": "2.5",
+      "highestBid": "0.301",
+      "baseVolume24h": "1225.19",
+      "quoteVolume24h": "3062.975",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "PTOY_USDT",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0.0011",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VC_USDT",
+      "lastPrice": "0.673298",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SUN_USDT",
+      "lastPrice": "9.832",
+      "lowestAsk": "9.831",
+      "highestBid": "9.83",
+      "baseVolume24h": "47532.02552",
+      "quoteVolume24h": "466454.91594081",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "VNLA_BTC",
+      "lastPrice": "0.00000503",
+      "lowestAsk": "0.00000504",
+      "highestBid": "0.00000503",
+      "baseVolume24h": "409841",
+      "quoteVolume24h": "2.05086811",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "OVO_USDT",
+      "lastPrice": "4.467",
+      "lowestAsk": "4.467",
+      "highestBid": "4.3",
+      "baseVolume24h": "542",
+      "quoteVolume24h": "2419.21",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CFXQ_USDT",
+      "lastPrice": "0.069083",
+      "lowestAsk": "0.0689",
+      "highestBid": "0.02266",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNOX_BTC",
+      "lastPrice": "0.0000194",
+      "lowestAsk": "0.0000482",
+      "highestBid": "0.00001951",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BNOX_USDT",
+      "lastPrice": "0.8995",
+      "lowestAsk": "0.8995",
+      "highestBid": "0.884",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CRT_BTC",
+      "lastPrice": "0.00000043",
+      "lowestAsk": "0.00000045",
+      "highestBid": "0.00000043",
+      "baseVolume24h": "610255.1",
+      "quoteVolume24h": "0.255718961",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XEMX_USDT",
+      "lastPrice": "0.0247",
+      "lowestAsk": "0.02",
+      "highestBid": "0.01",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BLCT_BTC",
+      "lastPrice": "0.0000875",
+      "lowestAsk": "0.0000878",
+      "highestBid": "0.0000869",
+      "baseVolume24h": "6597.6",
+      "quoteVolume24h": "0.57936292",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DEFO_ETH",
+      "lastPrice": "0.188446",
+      "lowestAsk": "0",
+      "highestBid": "0.0188",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XCZ_BTC",
+      "lastPrice": "0.0000002",
+      "lowestAsk": "0.0000003",
+      "highestBid": "0.0000002",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "ICX_BTC",
+      "lastPrice": "0.00002244",
+      "lowestAsk": "0.00002245",
+      "highestBid": "0.0000224",
+      "baseVolume24h": "87338",
+      "quoteVolume24h": "1.990548",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "HMR_BTC",
+      "lastPrice": "0.0000042",
+      "lowestAsk": "0.0000045",
+      "highestBid": "0.000004",
+      "baseVolume24h": "107438.2",
+      "quoteVolume24h": "0.45987928",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "HMR_ETH",
+      "lastPrice": "0.000098",
+      "lowestAsk": "0.000102",
+      "highestBid": "0.000098",
+      "baseVolume24h": "101097.99",
+      "quoteVolume24h": "15.72437821",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "HMR_USDT",
+      "lastPrice": "0.1379",
+      "lowestAsk": "0.1399",
+      "highestBid": "0.1379",
+      "baseVolume24h": "104640.042",
+      "quoteVolume24h": "14531.69691812",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "LIEN_BTC",
+      "lastPrice": "0.00134",
+      "lowestAsk": "0.00134",
+      "highestBid": "0.00131",
+      "baseVolume24h": "1335.643",
+      "quoteVolume24h": "1.76488617",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XCUR_USDT",
+      "lastPrice": "0.05004",
+      "lowestAsk": "0.45548",
+      "highestBid": "0.1",
+      "baseVolume24h": "1621",
+      "quoteVolume24h": "689.79967",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "JNB_USDT",
+      "lastPrice": "270.51",
+      "lowestAsk": "272.05",
+      "highestBid": "270.5",
+      "baseVolume24h": "173.917426",
+      "quoteVolume24h": "47067.26402894",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WOZX_USDT",
+      "lastPrice": "1.43",
+      "lowestAsk": "1.4021",
+      "highestBid": "1.4",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WOZX_UAH",
+      "lastPrice": "33.728",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "WOZX_RUB",
+      "lastPrice": "88.03",
+      "lowestAsk": "0",
+      "highestBid": "1",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "PIVX_USDT",
+      "lastPrice": "0.4713",
+      "lowestAsk": "0.5",
+      "highestBid": "0.3583",
+      "baseVolume24h": "52314.0758",
+      "quoteVolume24h": "24860.78130186",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DTUBE_BTC",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DTUBE_USDT",
+      "lastPrice": "0.26",
+      "lowestAsk": "0.3735",
+      "highestBid": "0.2589",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BLCT_ETH",
+      "lastPrice": "0.002156",
+      "lowestAsk": "0.002193",
+      "highestBid": "0.002146",
+      "baseVolume24h": "6593.16",
+      "quoteVolume24h": "14.4764442",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "NVZN_BTC",
+      "lastPrice": "0.00000104",
+      "lowestAsk": "0.00000112",
+      "highestBid": "0.00000104",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "GRT_USDT",
+      "lastPrice": "0.6445",
+      "lowestAsk": "0.6473",
+      "highestBid": "0.646",
+      "baseVolume24h": "652968.4508",
+      "quoteVolume24h": "393933.37220223",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CRT_ETH",
+      "lastPrice": "0.0000091",
+      "lowestAsk": "0.0000109",
+      "highestBid": "0.00001",
+      "baseVolume24h": "225221.732",
+      "quoteVolume24h": "2.3327718376",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SLT_BTC",
+      "lastPrice": "0.00001985",
+      "lowestAsk": "0.00002015",
+      "highestBid": "0.00001945",
+      "baseVolume24h": "29134",
+      "quoteVolume24h": "0.61107045",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DAA_USDT",
+      "lastPrice": "0.004121",
+      "lowestAsk": "0.004121",
+      "highestBid": "0.004112",
+      "baseVolume24h": "89878436.29",
+      "quoteVolume24h": "368236.655771075",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XSN_USDT",
+      "lastPrice": "0.4404",
+      "lowestAsk": "0.4427",
+      "highestBid": "0.4395",
+      "baseVolume24h": "164926.3281",
+      "quoteVolume24h": "71164.73217359",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MNE_ETH",
+      "lastPrice": "0.000189",
+      "lowestAsk": "0.000192",
+      "highestBid": "0.000188",
+      "baseVolume24h": "8733.32",
+      "quoteVolume24h": "1.63375666",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "SLT_USDT",
+      "lastPrice": "0.68114",
+      "lowestAsk": "0.68158",
+      "highestBid": "0.65826",
+      "baseVolume24h": "111802.9",
+      "quoteVolume24h": "79222.022028",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BOLC_USDT",
+      "lastPrice": "0.148",
+      "lowestAsk": "0.1479",
+      "highestBid": "0.0367",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "CRT_USDT",
+      "lastPrice": "0.0142",
+      "lowestAsk": "0.015",
+      "highestBid": "0.0142",
+      "baseVolume24h": "640663.7077",
+      "quoteVolume24h": "9973.99030571",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "XSN_BTC",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MEDI_USDT",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BLCT_USDT",
+      "lastPrice": "2.986",
+      "lowestAsk": "3.017",
+      "highestBid": "2.975",
+      "baseVolume24h": "4747.447",
+      "quoteVolume24h": "14180.723808",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "EDC_USDT",
+      "lastPrice": "0.18828",
+      "lowestAsk": "0.18828",
+      "highestBid": "0.18825",
+      "baseVolume24h": "12606049.425",
+      "quoteVolume24h": "2311580.38685355",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "BTCV_BTC",
+      "lastPrice": "0.001871",
+      "lowestAsk": "0.001871",
+      "highestBid": "0.001868",
+      "baseVolume24h": "47.5",
+      "quoteVolume24h": "0.08876003",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "MNTG_USDT",
+      "lastPrice": "1",
+      "lowestAsk": "1",
+      "highestBid": "0.00006",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "RPZX_USDT",
+      "lastPrice": "0.0010911",
+      "lowestAsk": "0.0010911",
+      "highestBid": "0.00045",
+      "baseVolume24h": "9121349",
+      "quoteVolume24h": "9705.36978479",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "HTML_USDT",
+      "lastPrice": "0.00005001",
+      "lowestAsk": "0.00005001",
+      "highestBid": "0.00005",
+      "baseVolume24h": "14323286",
+      "quoteVolume24h": "723.42235094",
+      "tradesEnabled": true
+    },
+    {
+      "lastUpdateTimestamp": "2021-01-31T00:13:55.000Z",
+      "tradingPairs": "DOGE_BTC",
+      "lastPrice": "0",
+      "lowestAsk": "0",
+      "highestBid": "0",
+      "baseVolume24h": "0",
+      "quoteVolume24h": "0",
+      "tradesEnabled": false
+    }
+  ]
+}
