@@ -1,0 +1,10 @@
+{
+  "bitfinex": {
+    "API_KEY": "XXX",
+    "API_SECRET": "XXX"
+  },
+  "whitebit": {
+    "API_KEY": "XXX",
+    "API_SECRET": "XXX"
+  }
+}
