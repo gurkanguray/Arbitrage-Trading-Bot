@@ -1,5 +1,5 @@
 # Arbitrage-Trading-Bot
-An algorithmic bot based on the arbitrage on different exchanges.
+An algorithmic bot based on the arbitrage on different cryptocurrency exchanges.
 
 
 It is developed by Güray Gurkan & Kaan Taha Köken.
